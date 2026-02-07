@@ -1,7 +1,16 @@
----
-title: "my-academic-site"
----
+# Yuanxu Dong (董原旭)
 
-This is a Quarto website.
+Marine science researcher working on air–sea interactions and the ocean carbon cycle.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Research Interests
+- Air–sea gas exchange
+- Ocean carbon cycle
+- Eddy covariance
+
+## Affiliation
+Humboldt Research Fellow (Postdoctoral Researcher)  
+GEOMAR Helmholtz Centre for Ocean Research Kiel / Heidelberg University
+
+## Contact
+Email: [Ydong@geomar.de](mailto:Ydong@geomar.de)  
+ResearchGate: <https://www.researchgate.net/profile/Yuanxu-Dong>
