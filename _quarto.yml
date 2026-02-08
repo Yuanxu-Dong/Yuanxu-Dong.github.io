@@ -1,16 +1,10 @@
-project:
-  type: website
-  output-dir: docs
-
 website:
-  title: "Yuanxu-Dong"
+  title: "Yuanxu Dong"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-
-format:
-  html:
-    theme: cosmo
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: About
+        href: about.qmd
