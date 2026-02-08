@@ -1,0 +1,85 @@
+## Peer-reviewed Publications
+
+I have published **10 peer-reviewed scientific papers**, including **six first-author publications**.
+
+1. **Dong, Y.***, Yang, M., Bell, T. G., Marandino, A. C., Woolf, D. K. (2025).  
+   Asymmetric bubble-mediated gas transfer enhances global ocean CO₂ uptake.  
+   *Nature Communications*, **16**, 10595.  
+   [IF = 15.7]
+
+2. **Dong, Y.***, Bakker, D. C. E., Bell, T. G., Yang, M., Landschützer, P., Hauck, J., Rödenbeck, C., Kitidis, V., Bushinsky, S. M., & Liss, P. S. (2024).  
+   Direct observational evidence of strong CO₂ uptake in the Southern Ocean.  
+   *Science Advances*, **10**(30), eadn5781.  
+   [IF = 14.1]
+
+3. **Dong, Y.***, et al. (2024).  
+   Accuracy of ocean CO₂ uptake estimates at risk due to reduced data collection.  
+   *Geophysical Research Letters*, **51**, e2024GL108502.  
+   [IF = 4.6]
+
+4. **Dong, Y.***, et al. (2022).  
+   Update on the temperature corrections of global air–sea CO₂ flux estimates.  
+   *Global Biogeochemical Cycles*, **36**(9), e2022GB007360.  
+   [IF = 5.5]
+
+5. **Dong, Y.***, et al. (2021).  
+   Near-surface stratification due to ice melt biases Arctic air–sea CO₂ flux estimates.  
+   *Geophysical Research Letters*, **48**(22), 1–10.  
+   [IF = 4.6]
+
+6. **Dong, Y.***, et al. (2021).  
+   Uncertainties in eddy covariance air–sea CO₂ flux measurements and implications for gas transfer velocity parameterisations.  
+   *Atmospheric Chemistry and Physics*, **21**(10), 8089–8110.  
+   [IF = 5.8]
+
+7. Yang, M., **Dong, Y.**, et al. (2024).  
+   Deciphering the variability in air–sea gas transfer due to sea state and wind history.  
+   *PNAS Nexus*, pgae389.
+
+8. Workman, E., **Dong, Y.**, et al. (2024).  
+   Methane emissions from seabed to atmosphere in polar oceans revealed by direct methane flux measurements.  
+   *Journal of Geophysical Research: Atmospheres*, **129**, e2023JD040632.
+
+9. Yang, M., **Dong, Y.**, et al. (2022).  
+   Global synthesis of air–sea CO₂ transfer velocity estimates from ship-based eddy covariance measurements.  
+   *Frontiers in Marine Science*, **9**, 826421.
+
+10. Zhao, D., **Dong, Y.**, et al. (2018).  
+    Relationship between turbulent energy dissipation and gas transfer through the air–sea interface.  
+    *Tellus B: Chemical and Physical Meteorology*, **70**(1), 1–11.
+
+---
+
+## Manuscripts Under Review
+
+1. **Dong, Y.***, Jähne, B., Woolf, D. K., Krall, K. E., Yang, M., Czerski, H., Liang, J., Brooks, I. M., McNeil, C. L., Wanninkhof, R., Ho, D. T., Atamanchuk, D., & Marandino, C. A.  
+   The role of bubbles in air–sea gas exchange: A critical review.  
+   *Reviews of Geophysics* (under review).  
+   https://doi.org/10.22541/essoar.175611263.31332921/v1  
+   [IF = 37.3]
+
+2. **Dong, Y.***, Marandino, C. A., Dobashi, R., Ho, D. T., Rehder, G., Bittig, H. C., … & Engel, A. (2026).  
+   Mechanisms of air–sea CO₂ exchange in the central Baltic Sea.  
+   *EGUsphere*, 1–44.  
+   https://doi.org/10.5194/egusphere-2025-6095
+
+3. **Dong, Y.***, Yang, M.* & Bell, T. G.  
+   Advancements in air–sea gas transfer velocity estimations from eddy covariance flux measurements.  
+   In *Cross-linking lab and field measurements and numerical modelling to identify and quantify the mechanisms of air–sea gas transfer*,  
+   edited by B. Jähne & K. Krall (under review).
+
+4. Dobashi, R., Ho, D. T., **Dong, Y.**, Marandino, C. A., & Czerski, H.  
+   Air–sea gas exchange in the central Baltic Sea.  
+   *Geophysical Research Letters* (under review).
+
+5. Yin, H., **Dong, Y.**, & Lu, X.  
+   Assessing gas transfer velocity: The impact of ignoring skin temperature corrections.  
+   *Limnology and Oceanography Letters* (under review).
+
+6. Ford, D. J., Shutler, J. D., Holding, T., Sims, R. P., Ashton, I., Woolf, D. K., Goddijn-Murphy, L., Bakker, D. C. E., Sabine, C., Merchant, C. J., Embury, O., **Dong, Y.**, & Wanninkhof, R.  
+   Recalculating the Surface Ocean CO₂ Atlas (SOCAT) to a sea surface temperature climate data record.  
+   *Scientific Data* (under review).
+
+7. Yu, L., Josey, S., Bourassa, M., **Dong, Y.**, & Behrangi, A.  
+   Ocean–atmosphere fluxes of heat, moisture, momentum, aerosols, and gases.  
+   *Encyclopedia of Climate System Science* (under review).
