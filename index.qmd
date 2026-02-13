@@ -1,8 +1,12 @@
-<!-- Top Research Banner -->
-<img src="Field.jpg" alt="Air-sea gas exchange research" 
-style="width:100%; max-height:400px; object-fit:cover; margin-bottom:40px;">
+<div style="
+display: grid;
+grid-template-columns: 250px 1fr;
+gap: 50px;
+align-items: start;
+">
 
-<div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 40px;">
+<!-- LEFT COLUMN -->
+<div>
 
 <img src="Photo.png" alt="Yuanxu Dong"
 style="
@@ -10,49 +14,58 @@ width:180px;
 height:180px;
 object-fit:cover;
 border-radius:50%;
+margin-bottom:40px;
 ">
 
+<img src="Field.jpg" alt="Air-sea gas exchange research"
+style="
+width:100%;
+max-width:220px;
+border-radius:8px;
+object-fit:cover;
+">
+
+</div>
+
+<!-- RIGHT COLUMN -->
 <div>
 
-<h2 style="margin-top:0; margin-bottom:10px;">About Me</h2>
+<h2>About Me</h2>
 
-<p style="font-size:18px; margin-top:0;">
+<p style="font-size:18px;">
 Marine Scientist | Early Career Researcher
 </p>
 
-<p style="margin-bottom:8px;">
-<strong>2024–2026</strong>: Postdoc, GEOMAR Helmholtz Centre for Ocean Research Kiel & Heidelberg University
-</p>
+<p><strong>2024–2026</strong>: Postdoc, GEOMAR & Heidelberg University</p>
+<p><strong>2019–2023</strong>: PhD, University of East Anglia & PML</p>
+<p><strong>2016–2019</strong>: Master, Ocean University of China</p>
 
-<p style="margin-bottom:8px;">
-<strong>2019–2023</strong>: PhD, University of East Anglia & Plymouth Marine Laboratory
-</p>
+<br>
 
-<p>
-<strong>2016–2019</strong>: Master, Ocean University of China
-</p>
+<h2>Research Interests</h2>
+
+<ul>
+<li>Air–sea gas exchange</li>
+<li>Ocean carbon cycle</li>
+<li>Eddy covariance</li>
+</ul>
+
+<br>
+
+<h2>Academic Responsibilities</h2>
+
+<ul>
+<li>Co-chair of <a href="https://www.solas-int.org/ecs-members.html">SOLAS ECSC</a></li>
+<li>Editor of <a href="https://www.earth-observation.net/editorial_board.html">Earth Observation</a></li>
+</ul>
+
+<br>
+
+<h2>Contact</h2>
+
+<p>Email: <a href="mailto:ydong@geomar.de">ydong@geomar.de</a></p>
+<p>ResearchGate: <a href="https://www.researchgate.net/profile/Yuanxu-Dong">Profile</a></p>
 
 </div>
+
 </div>
-
----
-
-## Research Interests
-
-- Air–sea gas exchange  
-- Ocean carbon cycle  
-- Eddy covariance  
-
----
-
-## Academic Responsibilities
-
-- Co-chair of [SOLAS ECSC](https://www.solas-int.org/ecs-members.html)  
-- Editor of [Earth Observation](https://www.earth-observation.net/)  
-
----
-
-## Contact
-
-- Email: [ydong@geomar.de](mailto:ydong@geomar.de)  
-- ResearchGate: <https://www.researchgate.net/profile/Yuanxu-Dong>
