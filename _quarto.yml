@@ -7,7 +7,21 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Research
+        href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: About
-        href: about.qmd
+      - text: CV
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/yuanxu-dong
+      - icon: google
+        href: https://scholar.google.com/
+      - icon: envelope
+        href: mailto:your_email@domain.com
+
+format:
+  html:
+    theme: cosmo
+    toc: false
