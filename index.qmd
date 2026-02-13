@@ -6,7 +6,7 @@ align-items: start;
 ">
 
 <!-- LEFT COLUMN -->
-<div>
+<div style="margin-top:10px;">
 
 <img src="Photo.png" alt="Yuanxu Dong"
 style="
@@ -30,7 +30,7 @@ object-fit:cover;
 <!-- RIGHT COLUMN -->
 <div>
 
-<h2>About Me</h2>
+<h2 style="margin-top:0;">About Me</h2>
 
 <p style="font-size:18px;">
 Marine Scientist | Early Career Researcher
