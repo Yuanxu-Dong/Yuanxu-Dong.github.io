@@ -1,16 +1,49 @@
-# Yuanxu Dong (董原旭)
+<div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 40px;">
 
-Marine science researcher working on air–sea interactions and the ocean carbon cycle.
+<img src="Bubble.jpg" alt="Yuanxu Dong" 
+style="width:180px; border-radius:50%;">
+
+<div>
+
+<h2 style="margin-top:0; margin-bottom:10px;">About Me</h2>
+
+<p style="font-size:18px; margin-top:0;">
+Marine Scientist | Early Career Researcher
+</p>
+
+<p style="margin-bottom:8px;">
+<strong>2024–2026</strong>: Postdoc, GEOMAR Helmholtz Centre for Ocean Research Kiel & Heidelberg University
+</p>
+
+<p style="margin-bottom:8px;">
+<strong>2019–2023</strong>: PhD, University of East Anglia & Plymouth Marine Laboratory
+</p>
+
+<p>
+<strong>2016–2019</strong>: Master, Ocean University of China
+</p>
+
+</div>
+</div>
+
+---
 
 ## Research Interests
-- Air–sea gas exchange
-- Ocean carbon cycle
-- Eddy covariance
 
-## Affiliation
-Humboldt Research Fellow (Postdoctoral Researcher)  
-GEOMAR Helmholtz Centre for Ocean Research Kiel / Heidelberg University
+- Air–sea gas exchange  
+- Ocean carbon cycle  
+- Eddy covariance  
+
+---
+
+## Academic Responsibilities
+
+- Co-chair of [SOLAS ECSC](https://www.solas-int.org/ecs-members.html)  
+- Editor of [Earth Observation](https://www.earth-observation.net/editorial_board.html)  
+
+---
 
 ## Contact
-Email: [Ydong@geomar.de](mailto:Ydong@geomar.de)  
-ResearchGate: <https://www.researchgate.net/profile/Yuanxu-Dong>
+
+- Email: [ydong@geomar.de](mailto:ydong@geomar.de)  
+- ResearchGate: <https://www.researchgate.net/profile/Yuanxu-Dong>

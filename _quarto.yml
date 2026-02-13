@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "**Yuanxu Dong**, Humboldt Fellowship for Postdoc"
+  title: "**Yuanxu Dong, PhD**<br>Humboldt Fellowship for Postdoc"
   navbar:
-    left:
+    right:
       - text: Home
         href: index.qmd
       - text: Research
@@ -14,11 +14,6 @@ website:
         href: publications.qmd
       - text: CV
         href: cv.qmd
-    right:
-      - icon: google
-        href: https://scholar.google.com/citations?user=X1tSc9IAAAAJ&hl=en
-      - icon: envelope
-        href: mailto:ydong@geomar.de
 
 format:
   html:
