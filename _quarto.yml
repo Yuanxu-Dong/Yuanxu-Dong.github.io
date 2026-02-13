@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Yuanxu Dong"
+  title: "**Yuanxu Dong**, Humboldt Fellowship for Postdoc"
   navbar:
     left:
       - text: Home
@@ -15,12 +15,10 @@ website:
       - text: CV
         href: cv.qmd
     right:
-      - icon: github
-        href: https://github.com/yuanxu-dong
       - icon: google
-        href: https://scholar.google.com/
+        href: https://scholar.google.com/citations?user=X1tSc9IAAAAJ&hl=en
       - icon: envelope
-        href: mailto:your_email@domain.com
+        href: mailto:ydong@geomar.de
 
 format:
   html:
