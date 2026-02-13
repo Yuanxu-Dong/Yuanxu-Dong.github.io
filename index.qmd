@@ -23,6 +23,7 @@ width:100%;
 max-width:220px;
 border-radius:8px;
 object-fit:cover;
+margin-top:40px;
 ">
 
 </div>
@@ -30,7 +31,7 @@ object-fit:cover;
 <!-- RIGHT COLUMN -->
 <div>
 
-<h2 style="margin-top:0;">About Me</h2>
+<h2 style="margin-top:25px; margin-bottom:10px;">About Me</h2>
 
 <p style="font-size:18px;">
 Marine Scientist | Early Career Researcher
@@ -40,9 +41,8 @@ Marine Scientist | Early Career Researcher
 <p><strong>2019–2023</strong>: PhD, University of East Anglia & PML</p>
 <p><strong>2016–2019</strong>: Master, Ocean University of China</p>
 
-<br>
 
-<h2>Research Interests</h2>
+<h2 style="margin-top:30px; margin-bottom:10px;">Research Interests</h2>
 
 <ul>
 <li>Air–sea gas exchange</li>
@@ -50,16 +50,14 @@ Marine Scientist | Early Career Researcher
 <li>Eddy covariance</li>
 </ul>
 
-<br>
 
-<h2>Academic Responsibilities</h2>
+<h2 style="margin-top:30px; margin-bottom:10px;">Academic Responsibilities</h2>
 
 <ul>
 <li>Co-chair of <a href="https://www.solas-int.org/ecs-members.html">SOLAS ECSC</a></li>
 <li>Editor of <a href="https://www.earth-observation.net/editorial_board.html">Earth Observation</a></li>
 </ul>
 
-<br>
 
 <h2>Contact</h2>
 
