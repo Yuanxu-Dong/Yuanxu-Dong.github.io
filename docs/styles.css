@@ -1,5 +1,5 @@
 /* =========================
-   Hero Banner 顶部大图
+   Hero Banner
 ========================= */
 .hero-banner {
   background-image: url("Field.jpg");
@@ -45,36 +45,37 @@
 }
 
 /* =========================
-   首页双栏结构
+   首页双栏布局
 ========================= */
 .home-container {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
-  gap: 60px;
+  gap: 40px;
+  width: 100%;
   max-width: 1100px;
-  margin: 60px auto;
+  margin: 40px auto;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 18px;
   line-height: 1.65;
 }
 
-/* 左侧文字部分 */
 .home-left {
-  flex: 2.2;
-}
-
-.home-left h2 {
-  margin-bottom: 24px;
-  font-weight: 600;
+  flex: 2;
+  padding-right: 20px;
 }
 
 .home-left p {
-  margin-bottom: 20px;
-  text-align: justify;
+  text-align: justify; /* 两端对齐 */
+  margin-bottom: 16px;
 }
 
-/* Recent Updates 列表 */
+.home-left h2 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+/* Recent Updates 样式 */
 .home-left ul {
   list-style: none;
   padding-left: 0;
@@ -82,45 +83,43 @@
 }
 
 .home-left ul li {
-  margin-bottom: 20px;
-  line-height: 1.4;
+  margin-bottom: 24px;
+  line-height: 1.5;
 }
 
-/* 右侧头像 + Contact */
+/* 右侧头像和 Contact */
 .home-right {
   flex: 1;
-  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
-/* 头像 */
-.home-right img.profile-photo {
-  width: 220px;
+.profile-photo {
+  width: 150px;
   border-radius: 50%;
-  margin-bottom: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-bottom: 16px;
 }
 
-/* Contact 与研究方向 */
 .contact-box {
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.6;
 }
 
 .contact-box h3 {
   font-weight: 600;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
 .contact-box ul {
-  padding-left: 20px;
-  margin-top: -10px;
-  margin-bottom: 20px;
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
 }
 
 .contact-box ul li {
-  line-height: 1.5;
+  margin-bottom: 6px;
   font-size: 16px;
 }
 
@@ -140,7 +139,6 @@
   font-size: 18px;
 }
 
-/* 期刊名样式，颜色和姓名一致 */
 .publication-page em {
   font-style: normal;
   font-weight: normal;
@@ -148,46 +146,26 @@
 }
 
 /* =========================
-   响应式设计 (手机端)
+   响应式（手机端）
 ========================= */
 @media (max-width: 768px) {
-  /* 左右分栏 → 上下堆叠 */
   .home-container {
     flex-direction: column;
-    gap: 20px;
+    padding: 0 15px;
   }
 
-  /* 左侧文字全宽 */
   .home-left {
-    flex: 1;
-    text-align: left;
+    flex: none;
+    padding-right: 0;
   }
 
-  /* 右侧头像居中 */
   .home-right {
-    flex: 1;
+    flex: none;
+    margin-top: 30px;
     text-align: center;
-    position: static; /* 去掉绝对定位 */
   }
 
-  .home-right img.profile-photo {
-    width: 150px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .contact-box {
-    text-align: center;
-    font-size: 15px;
-  }
-
-  .contact-box ul li {
-    font-size: 15px;
-  }
-
-  /* 顶部图片自适应 */
-  .hero-banner {
-    height: auto;
-    max-height: 350px;
+  .profile-photo {
+    width: 120px;
   }
 }
