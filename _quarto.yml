@@ -3,19 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "**Yuanxu Dong, PhD**<br>Humboldt Fellowship for Postdoc"
+  title: "**Yuanxu Dong, PhD**<br>Humboldt postdoc fellowship"
   navbar:
     right:
       - text: Home
         href: index.qmd
       - text: Research
         href: research.qmd
+      - text: Bio
+        href: Bio.qmd
       - text: Publications
         href: publications.qmd
-      - text: CV
-        href: cv.qmd
+      - text: Resources
+        href: Resources.qmd
 
 format:
   html:
-    theme: cosmo
-    toc: false
+    theme: flatly
+    css: styles.css
+    html-extensions: true
