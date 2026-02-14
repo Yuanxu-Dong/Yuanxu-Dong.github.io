@@ -145,27 +145,17 @@
   color: inherit;
 }
 
-/* =========================
-   响应式（手机端）
-========================= */
+/* 手机端自动堆叠左右列 */
 @media (max-width: 768px) {
-  .home-container {
+  .home-container, div[style*="display:flex"] {
     flex-direction: column;
-    padding: 0 15px;
+    gap:20px;
   }
-
-  .home-left {
-    flex: none;
-    padding-right: 0;
-  }
-
-  .home-right {
-    flex: none;
-    margin-top: 30px;
-    text-align: center;
-  }
-
-  .profile-photo {
-    width: 120px;
+  div[style*="flex:2"], div[style*="flex:1"] {
+    flex:none;
+    width:100%;
+    text-align:center;
+    margin-left:0 !important;
   }
 }
+
